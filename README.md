@@ -61,8 +61,8 @@ We are lining up judges as we might host live presentation as needed. More to be
 
 ## Startup Toolkit
 You can use the resources below to help you get started, and feel free to add the ones you know of!
-* [Google Doc]()
-* [Tencent Doc]()
+* [Google Doc](https://docs.google.com/document/d/1mF43AV3YZ6qd6ieJEcBxP2GYFhbA1meGWve9Yvb2_Do/edit?usp=sharing)
+* [Shimo Doc](https://shimo.im/docs/kcQ8RtcJVrHt3CxC) (if you cannot access Google Doc Above)
 
 ### YCSSer Products
 We would like to highlight YCSSer Products here.
