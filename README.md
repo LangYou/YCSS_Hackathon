@@ -71,7 +71,7 @@ We would like to highlight YCSSer Products here.
 | --- | --- | --- |
 | LivAway |  | Vincent Chan |
 | [Scrimba](https://scrimba.com/playlist/pzKN6h6) | demo for "Build a Landing Page using Bootstrap (HTML + CSS)" | Erniesg |
-| chart.xkcd | a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts | Tim Qian |
+| [chart.xkcd](https://github.com/timqian/chart.xkcd) | a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts | Tim Qian |
 
 ## Organising Team
 * Vincent Chan
