@@ -72,6 +72,11 @@ We would like to highlight YCSSer Products here.
 | LivAway |  | Vincent Chan |
 | [Scrimba](https://scrimba.com/playlist/pzKN6h6) | demo for "Build a Landing Page using Bootstrap (HTML + CSS)" | Erniesg |
 | [chart.xkcd](https://github.com/timqian/chart.xkcd) | a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts | Tim Qian |
+| [Gitduck](http://gitduck.com) | learn from other developers by watching how they work | Thiago |
+| [Hofstadter](https://hofstadter.io/) | rapid application development| Tony Worm |
+| [hackathon.io](https://www.hackathon.io) | host and join hackathons for free | Jonas |
+| [h2hackathon](https://h2hackathon.com/) | AI Hackathon & Wokrshop | Uren |
+
 
 ## Organising Team
 * Vincent Chan
