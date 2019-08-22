@@ -28,7 +28,7 @@ This YCSS Hackathon is a MVP itself and would improve as it goes. Any feedback a
 ## Key Dates
 
 **Now - September 3: sign up and formalise teams**
-* Sign up **[here](https://www.wjx.top/jq/44368682.aspx)** by ***11:59pm PDT September 3*** 
+* Sign up **[via Google Doc](https://forms.gle/pH8NwW3LN5KWesMv8)** by ***11:59pm PDT September 3*** 
 * Then join our Slack group to receive real-time updates and recruit fellow participants! (just send an email with a list of your team members to organisers) 
 * Anyone can post your idea online or check out existing ideas on shared Trello board
  
@@ -108,4 +108,5 @@ This hackathon is organised by the community, for the community, so some basic g
 * Your work should not infringe upon the copyrights of others
 * All IP produced through the hackathon belongs to their respective authors
 
-## [Sign up now](https://www.wjx.top/jq/44368682.aspx)!
+## [Sign up now](https://forms.gle/pH8NwW3LN5KWesMv8)
+If Google Doc above is not accessible, sign up [here](https://www.wjx.top/jq/44368682.aspx)!
