@@ -5,6 +5,7 @@
 * [Why Participate?](#why-participate)
 * [Eligibility](#eligibility)
 * [Submission](#submission)
+* [Project Ideas](#project-ideas)
 * [Voting](#voting)
 * [Judges](#judges)
 * [Startup Toolkit](#startup-toolkit)
@@ -48,6 +49,12 @@ This YCSS Hackathon is a MVP itself and would improve as it goes. Any feedback a
 
 ## Eligibility
 YCSS Hackathon 2019 is open to *YCSS-ers 2018 & 2019 and teammates*. You can join as an individual or a team. Once signed up, individuals can use the Slack group to recruit team members. Recommended team size is 2-4, but not more than 5 in total.
+
+## Project Ideas
+You are free to work on anything. You can post your idea to Trello board and get feedback. Here are some resources that hopefully would inspire you:
+* [YC Requests for Startup](https://www.ycombinator.com/rfs/)
+
+"Make something people want."
 
 ## Submission
 Upload a **5 min video** and submit links to the video/powerpoint/prototype/website. We strongly encourage the creation of landing pages at the very least even if you are a non-technical team. You can use the [resources](#resources) below to help you. Live presentation online via Zoom available as an option.
