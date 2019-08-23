@@ -77,7 +77,7 @@ We would like to highlight YCSSer Products here.
 
 | Name | Description | Made By |
 | --- | --- | --- |
-| LivAway |(http://www.livaway.org)| Vincent Chan | local community to do customer aquisition for foreign education startups in China
+| [LivAway](http://www.livaway.org) | local community to do customer aquisition for foreign education startups in China | Vincent Chan | 
 | [Scrimba](https://scrimba.com/playlist/pzKN6h6) | demo for "Build a Landing Page using Bootstrap (HTML + CSS)" | Erniesg |
 | [chart.xkcd](https://github.com/timqian/chart.xkcd) | a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts | Tim Qian |
 | [Gitduck](http://gitduck.com) | learn from other developers by watching how they work | Thiago |
