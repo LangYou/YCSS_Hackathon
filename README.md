@@ -65,6 +65,7 @@ Judges would pick a #1 and all the YCSS community vote for the most popular proj
 ## Judges
 We are lining up judges as we might host live presentation as needed. More to be confirmed...
 * Oscar, VP, 同程资本 Tongcheng Capital
+* Vincent Chan, CEO, LivAway / WeWork Labs Startup Mentor
 
 ## Startup Toolkit
 You can use the resources below to help you get started, and feel free to add the ones you know of!
@@ -76,7 +77,7 @@ We would like to highlight YCSSer Products here.
 
 | Name | Description | Made By |
 | --- | --- | --- |
-| LivAway |  | Vincent Chan |
+| LivAway |(http://www.livaway.org)| Vincent Chan | local community to do customer aquisition for foreign education startups in China
 | [Scrimba](https://scrimba.com/playlist/pzKN6h6) | demo for "Build a Landing Page using Bootstrap (HTML + CSS)" | Erniesg |
 | [chart.xkcd](https://github.com/timqian/chart.xkcd) | a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts | Tim Qian |
 | [Gitduck](http://gitduck.com) | learn from other developers by watching how they work | Thiago |
@@ -86,7 +87,7 @@ We would like to highlight YCSSer Products here.
 
 
 ## Organising Team
-* Vincent Chan
+* Vincent Chan, [Linkedin](https://www.linkedin.com/in/vincent-chan-122b49170/)
 * LiangYou Chen, [Linkedin](https://www.linkedin.com/in/liangyouchen/)
 * Erniesg
 * Yi Hao
