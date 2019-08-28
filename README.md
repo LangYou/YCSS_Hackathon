@@ -84,6 +84,7 @@ We would like to highlight YCSSer Products here.
 | [Hofstadter](https://hofstadter.io/) | rapid application development| Tony Worm |
 | [hackathon.io](https://www.hackathon.io) | host and join hackathons for free | Jonas |
 | [h2hackathon](https://h2hackathon.com/) | AI Hackathon & Wokrshop | Uren |
+| [Startup Pitch Generator](https://pitchgen.co/) | Get 1000+ Startup Ideas | Andrew Kim |
 
 
 ## Organising Team
