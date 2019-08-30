@@ -66,6 +66,7 @@ Judges would pick a #1 and all the YCSS community vote for the most popular proj
 We are lining up judges as we might host live presentation as needed. More to be confirmed...
 * Oscar, VP, 同程资本 Tongcheng Capital
 * Vincent Chan, CEO, LivAway / WeWork Labs Startup Mentor
+* Sherry, Senior Investment Manager, Fudan Invest
 
 ## Startup Toolkit
 You can use the resources below to help you get started, and feel free to add the ones you know of!
